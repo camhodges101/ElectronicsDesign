@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "symbols")(type "KiCad")(uri "${KIPRJMOD}/symbols")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/symbols/ampSeal23/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprintsall")(type "KiCad")(uri "${KIPRJMOD}/symbols/footprints.pretty")(options "")(descr ""))
+  (lib (name "Controller")(type "KiCad")(uri "/home/cameron/Dropbox/CamsDocuments/ControllerDesign/Controller.pretty")(options "")(descr ""))
+  (lib (name "LEDs")(type "KiCad")(uri "${KIPRJMOD}/symbols/footprints.pretty/LEDs.pretty")(options "")(descr ""))
+  (lib (name "customDiodes")(type "KiCad")(uri "${KIPRJMOD}/customDiodes.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/home/cameron/Documents/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "customConnectors")(type "KiCad")(uri "${KIPRJMOD}/customConnectors.pretty")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "/home/cameron/Dropbox/CamsDocuments/ControllerDesign/CM4IO-KiCAD/CM4IO.pretty")(options "")(descr ""))
+)
