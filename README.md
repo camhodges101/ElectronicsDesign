@@ -8,3 +8,4 @@ This is intended to be a general purpose controller or datalogger. The STM32 all
 
 ![](images/PCB.png)
 ![](images/Schematic-.png)
+![](images/IMG_8424.jpg)
